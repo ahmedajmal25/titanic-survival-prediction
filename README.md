@@ -7,7 +7,7 @@ This project predicts passenger survival on the Titanic using a K-Nearest Neighb
 ## 📁 Project Structure
 
 - `main.py`: Run the full pipeline as a script.
-- `scikit-learn.ipynb`: Interactive version of the pipeline with Jupyter Notebook.
+- `titanic_survival_prediction.ipynb`: Interactive version of the pipeline with Jupyter Notebook.
 - `titanic.csv`: Dataset (download from [Kaggle](https://www.kaggle.com/competitions/titanic/data)).
 
 ---
@@ -35,7 +35,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## 📅 Dataset
 
 1. Download [`titanic.csv`](https://www.kaggle.com/competitions/titanic/data) from Kaggle.
-2. Place it in the project directory (same folder as `main.py` or `scikit-learn.ipynb`).
+2. Place it in the project directory (same folder as `main.py` or `titanic_survival_prediction.ipynb`).
 
 ---
 
@@ -65,7 +65,7 @@ python main.py
 jupyter notebook
 ```
 
-1. Open `scikit-learn.ipynb`
+1. Open `titanic_survival_prediction.ipynb`
 2. Run each cell in order
 
 **Expected Output:**

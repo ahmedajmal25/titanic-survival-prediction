@@ -1,0 +1,6 @@
+venv/
+titanic.csv
+*.html
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
